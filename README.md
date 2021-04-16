@@ -7,11 +7,14 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
 
 ---
 
-📖 I'm currently learning:
+📖 I'm learning:
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Java Script" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android Logo" width="50" height="50"/>
 
 ---
+
+### 📞 If you want to contact with me:
+ • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="facebook"/>](facebook.com/ccc90) 
 
 ---
 
