@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chung Nguyen! Pleased to meet you.
 
-<!--
-**omeganoob/omeganoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ---
 
 I am currently a student at Vietnam - Korea University of Information and Communication Technology
@@ -21,4 +18,9 @@ I am currently a student at Vietnam - Korea University of Information and Commun
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+
+
+
+<!--
+**omeganoob/omeganoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
