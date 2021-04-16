@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chung Nguyen! Pleased to meet you.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Chung Nguyen! Pleased to meet you.
 
 ---
 I'm from Dak Lak province 🐘, living in Da Nang city as my university is in there.
