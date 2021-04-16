@@ -14,7 +14,9 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
 ---
 
 ### 📞 If you want to contact with me:
- • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="facebook" width="20" height="20" />](https://www.facebook.com/ccc90) 
+ • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" alt="facebook" width="20" height="20" /> Chung Quang Nguyễn](https://www.facebook.com/ccc90) 
+ • 📱 Mobile: 0377824995
+ • [<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt = "gmail" width="20" height="20"/> nqchung.19it1@vku.udn.vn](mailto:nqchung.19it1@vku.udn.vn?subject=[GitHub] Source Han Sans)
 
 ---
 
