@@ -14,7 +14,7 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
 ---
 
 ### 📞 If you want to contact with me:
- • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="facebook"/>](facebook.com/ccc90) 
+ • [<img src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="facebook" width="20" height="20" />](https://www.facebook.com/ccc90) 
 
 ---
 
