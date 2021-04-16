@@ -3,7 +3,7 @@
 ---
 I'm from Dak Lak province 🐘, living in Da Nang city as my university is in there.
 
-I am currently a student at Vietnam - Korea University of Information and Communication Technology. <img src="http://online.vku.udn.vn/static/icons/logo.png" alt="VKU Logo" height="30"/>
+I am currently a student at Vietnam - Korea University of Information and Communication Technology. <img src="https://github.com/omeganoob/omeganoob/blob/main/images.png" alt="VKU Logo" height="20"/>
 
 ---
 
