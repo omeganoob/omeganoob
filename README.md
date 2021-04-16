@@ -17,7 +17,7 @@ I am currently a student at Vietnam - Korea University of Information and Commun
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeganoob&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeganoob&hide=html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=omeganoob&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
