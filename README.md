@@ -18,7 +18,7 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
  
  • 📱 Mobile: 0377824995
  
- • [<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt = "gmail" width="20" height="20"/> Mail me](mailto:nqchung.19it1@vku.udn.vn?subject=[GitHub] Source Han Sans)
+ • <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt = "gmail" width="20" height="20"/> nqchung.19it1@vku.udn.vn
 
 ---
 
