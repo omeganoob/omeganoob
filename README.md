@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Chung Nguyen! Pleased to meet you.
 
 ---
-I'm from Dak Lak province 🐘 and living in Da Nang city 🐉.
+I'm from Dak Lak province 🐘 and living in Da Nang city 🐉. I'm working as a Game Developer and hobbyist UI/UX Designer 
 
 I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blob/main/images.png" alt="VKU Logo" height="20"/> Vietnam - Korea University of Information and Communication Technology.
 
