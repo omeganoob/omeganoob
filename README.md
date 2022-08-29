@@ -9,7 +9,7 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
 
 📖 I'm learning:
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Java Script" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="32" height="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Engine" width="32" height="32"/> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="32" height="32"/>
 
 ---
 
