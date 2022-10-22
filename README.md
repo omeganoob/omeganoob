@@ -24,7 +24,7 @@ I am currently a student at <img src="https://github.com/omeganoob/omeganoob/blo
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeganoob&hide=html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeganoob&layout=compact&hide=html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=omeganoob&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
